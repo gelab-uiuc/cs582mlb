@@ -1,5 +1,5 @@
 
-The official website for MIT class 6.802 / 6.874 / 20.390 / 20.490 / HST.506 Computational Systems Biology: Deep Learning in the Life Sciences
+The official website for UIUC class cs582: Machine Learning for Boinformatics
 
 - `index.html`: the landing page of the website, including course description, prerequisites, and syllabus. This page has hyperlinks that point to tutorials and other resources.
 - `tutorials` folder: the tutorials
