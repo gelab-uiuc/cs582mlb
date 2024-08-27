@@ -1,8 +1,8 @@
 # Site settings
-title: "Spring 2021 6.874 Computational Systems Biology: Deep Learning in the Life Sciences"
-description: "Course materials and notes for MIT class 6.802 / 6.874 / 20.390 / 20.490 / HST.506 Computational Systems Biology: Deep Learning in the Life Sciences"
+title: "2024 Fall CS582 Machine Learning for Bioinformatics"
+description: "Course materials and notes for UIUC class CS582 ML for Bioinformatics"
 baseurl: ""
-url: "https://mit6874.github.io"
+url: "https://cs582mlb.github.io"
 #url: "127.0.0.1"
 
 # Build settings
