@@ -1,8 +1,8 @@
 # Site settings
 title: "2024 Fall CS582 Machine Learning for Bioinformatics"
 description: "Course materials and notes for UIUC class CS582 ML for Bioinformatics"
-baseurl: ""
-url: "https://cs582mlb.github.io"
+baseurl: /cs582mlb.github.io 
+url: https://lgsaber.github.io
 #url: "127.0.0.1"
 
 # Build settings
