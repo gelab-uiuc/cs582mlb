@@ -368,6 +368,47 @@ footer {
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
+.team-container {
+  display: flex;
+  gap: 20px; /* Space between team members */
+  flex-wrap: wrap; /* Allows wrapping to the next line if necessary */
+}
+
+.team-member {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  flex: 1 1 calc(50% - 20px); /* Responsive width: 3 items per row */
+  box-sizing: border-box;
+  max-width: calc(50% - 20px); /* Ensure items don't stretch beyond the container */
+}
+
+.team-member img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.team-member .info {
+  flex: 1;
+}
+
+.team-member .info h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.team-member .info p {
+  margin: 5px 0 0;
+  color: #666;
+}
+
+
 /* media queries */
 /* ----------------------------------------------------------*/
 
